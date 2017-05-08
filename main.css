@@ -16,8 +16,16 @@ h4 {
 html, body {
   height: 100%;
   margin: 0;
-  background-image: url(trees.jpg) ;
-  background-repeat: no-repeat;
+  }
+
+html {
+   background-image: url(trees.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
 }
 
 body {

@@ -16,18 +16,8 @@ h4 {
 html, body {
   height: 100%;
   margin: 0;
-  
+  background-image: url(trees.jpg);
 }
-
-html {
-  background: url(trees.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-
 
 body {
   font-family: 'Proxima-Nova', sans-serif;
@@ -60,4 +50,3 @@ body {
   margin-left: 0.6rem;
   margin-right: 0.6rem;
 }
-

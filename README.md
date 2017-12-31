@@ -1,3 +1,3 @@
 welcome to my personal website!
 
-made with html/css with sublimetext3.
+made with html/css using sublimetext3.
